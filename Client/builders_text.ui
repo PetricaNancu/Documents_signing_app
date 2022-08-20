@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Builders_text</class>
+ <widget class="QDialog" name="Builders_text">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>966</width>
+    <height>789</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTextEdit" name="Text_editor">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>70</y>
+     <width>941</width>
+     <height>701</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Close">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>20</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"> QPushButton#Close {
+      border-style: outset;
+	  background-color:#E3E3E3;
+      border-width: 1px;
+      border-radius: 20px;
+      border-color: white;
+      font:  12px;
+      min-width: 10em;
+      padding: 6px;
+  }</string>
+   </property>
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Save">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>20</y>
+     <width>154</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"> QPushButton#Save {
+      border-style: outset;
+	  background-color:#E3E3E3;
+      border-width: 1px;
+      border-radius: 20px;
+      border-color: white;
+      font:  12px;
+      min-width: 10em;
+      padding: 6px;
+  }</string>
+   </property>
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

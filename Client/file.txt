@@ -1,0 +1,20 @@
+
+
+eu sunt condei 
+
+Prima oara este etapa de fetch care adduce din memoria de la adresa respective de la program counter in registrul respectiv, la sfarsit, PC pointeaza catre urmatoarea instructiune.
+Urmeaza etapa de decodificare unde faza de executie se desfasoare la urmatorul ciclu de ceas fiind utilizata o instructiune care lucreaza cu memoria care citeste adresa efectiva din memorie.
+Faza de executie Unitatea de control a procesorului primeste informatia din etapa precedenta care trimite valorile catre ALU care face suma dintre ce este in BX si ce se afla la adresa lui SI iar rezultatul este trimis catre varful stivei.
+Stiva este folosita pentru stoca informatii, aceasta este o unitate de memorare cu un registru de adresare numit SP (stack pointer ) care pointeaza mereu catre varful stivei.
+#@# Signature:myT5OjMLJb9M8irMRi6LwfyUz66/u/h40U+VeLGln3GKL7qhRvu/VVybRrggWvnC
+bYRe4SOaYCSDIYvmYryg6ehRegXLoQos/gzp6YxFqpvoq9i6hEUpbyfOB58nFyIt
+J0xM7uISHOm/UszuQmLhDK0V/YjyfsacK7gqt6WfACYkXZk+GMSOG7YNwZMABjpj
+8fy5eKO+FvDirW23igqLfOVswBb9o4r70QYgiBuylQTJl5ax3+gXJRkVO9XBI+T4
+vHzn14M3RpfjckuEHj8xCNWvzafb5rRtmscqwD1Ema8RAu3Ny85/SVUcUwjLCSol
+KfuYahLo9Y4ZuskcyxkaQlNhbHRlZF9fQZAf/L+ujocX5TE9JKqN1rxiJKSvFHvc
+XsTjPgm82cCTJvSQP0exRfR4MWoMAwNVKStmZp2auVz3Qk1wqIKQ7VDWAlC8lfkq
+5zg9x9831D2gy7czzN6w2aB+VRnHNCkZpZtK7IVfTUj/wUuk2616qZc1b7Qjmxd1
+4JKIS+axhf5dOh16n7eVACz/lCiJW45Svf+HIJCWvrf9ukQGjvnpPX1rumD1E1sW
+ZR5LDwB/U9BXgzst6+5eS41NtKSxljeQICwXTYc3SAUzV6Z8611r7DnYWbKiTvAf
+YRuPAAiG6UrFLfJlC9B3hylUP49+hdgy7LF1Mre7FsqibkSty6M0Uu+dD4Slfq+j
+TT6p9weBLHJXupOqs2Eq2w==
